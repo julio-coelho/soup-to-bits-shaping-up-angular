@@ -1,0 +1,16 @@
+{
+  "name": "soup-to-bits-shaping-up-angular",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A starter project for AngularJS",
+  "repository": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.6.1",
+    "bower": "^1.3.1"
+  },
+  "scripts": {
+    "postinstall": "bower install",
+    "start": "http-server -a localhost -p 4000"
+  }
+}
